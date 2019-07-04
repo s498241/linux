@@ -1,11 +1,8 @@
 package com;
-
-
 import com.util.IdUtil;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-
 public class Demo {
 
 
